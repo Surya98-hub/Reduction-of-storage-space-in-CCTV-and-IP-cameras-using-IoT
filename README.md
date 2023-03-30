@@ -1,0 +1,1 @@
+# Reduction-of-storage-space-in-CCTV-cameras-
