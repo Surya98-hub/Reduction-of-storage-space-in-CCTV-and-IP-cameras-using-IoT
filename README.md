@@ -1,4 +1,4 @@
-# Reduction-of-storage-space-in-CCTV-cameras-
+# Reduction-of-storage-space-in-CCTV-and-IP-cameras-using-IoT
 
 from picamera import PiCamera
 import RPi.GPIO as GPIO
